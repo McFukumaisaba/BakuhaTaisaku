@@ -1,0 +1,4 @@
+name: BakuhaTaisaku
+version: '${project.version}'
+main: com.github.elic0de.bakuhataisaku.BakuhaTaisaku
+api-version: 1.19
